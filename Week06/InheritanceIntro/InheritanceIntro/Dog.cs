@@ -9,7 +9,6 @@ namespace InheritanceIntro
 {
     public class Dog
     {
-        //test comment
         public string Name;
         public int Height;
         public string Breed;
